@@ -1,6 +1,6 @@
 {
-	"TOKEN" : "ODEwNzUzNDkxNjM4NTUwNTI5.YCoPBw.zdvogSgHdkfC0a1dfIDkZ0dgmuQ",
+	"TOKEN" : "your-token-here",
 	"PREFIX" : ">",
 
-	"WEATHER_KEY" : "2aa174a488f4230e83ecf7f83dc6d890"
+	"WEATHER_KEY" : "your-weather-key-here"
 }
